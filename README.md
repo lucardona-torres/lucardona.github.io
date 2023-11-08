@@ -1,1 +1,3 @@
-# lucardona.github.io
+## lucardona.github.io
+
+Hello! I'm a 4th year Astrophysics PhD student at Instituto Nacional de Astrofísica, Optica y Electrónica (INAOE), in Puebla, México. My primary research interest is galaxy formation and evolution, mainly the population of dusty star-forming galaxies. In particular, I study the star formation, dust attenuation and morphology of submillimeter detected galaxies from multiwavelength data. I am member of the submillimeter TolTEC camera collaboration. Besides my academic endeavours, I co-lead the RECA mentorship program, and collaborate in science outreach activities with the Planetario y Observatorio Astronomico UTP y Casa Tlacuache . I like baking, painting and I am a WKBO certified blue belt kickboxer at CAM Cholula.
